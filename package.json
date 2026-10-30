@@ -12,7 +12,7 @@
     "methods": "1.x"
   },
   "devDependencies": {
-    "body-parser": "~1.15.0",
+    "body-parser": "~2.4.0",
     "cookie-parser": "~1.4.1",
     "eslint": "^2.8.0",
     "eslint-config-airbnb": "^7.0.0",
